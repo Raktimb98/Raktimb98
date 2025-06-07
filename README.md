@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raktimb95873113" target="blank"><img src="https://img.shields.io/twitter/follow/raktimb95873113?logo=twitter&style=for-the-badge" alt="raktimb95873113" /></a> </p>
 
-- 🔭 I’m currently working on **C++ , Python and DSA**
+- 🔭 I’m currently working on **Laravel**
 
 - 🌱 I’m currently learning **Backend development**
 
