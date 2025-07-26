@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/raktimb95873113" target="blank"><img src="https://img.shields.io/twitter/follow/raktimb95873113?logo=twitter&style=for-the-badge" alt="raktimb95873113" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [raktimb98.rf.gd](raktimb98.rf.gd)
-
-- 📝 I regularly write articles on [https://www.quora.com/profile/Raktim-Biswas-26](https://www.quora.com/profile/Raktim-Biswas-26)
+- 👨‍💻 All of my projects are available at my GitHub repository
 
 - 💬 Ask me about **Global politics**
 
 - 📫 How to reach me **raktimb181@gmail.com**
 
-- ⚡ Fun fact **It's not a BUG , It's a feature 😆**
+- ⚡ Fun fact **Me: 'I'll just quickly fix this one small bug.' Two hours later: 'Why is everything broken?**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
