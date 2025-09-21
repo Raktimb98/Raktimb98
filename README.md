@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raktim Biswas</h1>
-<h3 align="center">I am currently pursuing an honours degree in computer science with a strong focus on full-stack web development. My skill set includes C, HTML, JavaScript, CSS, PHP, C++, Mongo db and SQL, and I am actively expanding my expertise by learning cutting-edge technologies like MERN especially Node.js and React.js.</h3>
+<h3 align="center">I am currently pursuing an honours degree in computer science with a strong focus on full-stack web development. My skill set includes C, HTML, JavaScript, CSS, PHP, C++, Mongo db and SQL, and I am actively expanding my expertise by learning cutting-edge technologies like MERN, especially Node.js and Express.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raktimb98&label=Profile%20views&color=0e75b6&style=flat" alt="raktimb98" /> </p>
 
